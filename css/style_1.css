@@ -1,0 +1,21 @@
+
+.div1{
+	height: 80px;
+	//background-color: aquamarine;
+}
+
+.inline-information div{
+	float: left;
+	margin-right:40px;
+}
+.div2{
+	height: 150px;
+	//background-color: aqua;
+}
+.information div{
+	height: 50px;
+}
+.div2 span{
+	display: block;
+}
+

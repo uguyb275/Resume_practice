@@ -1,0 +1,45 @@
+*{
+	margin: 0px;
+	padding: 0px;
+}
+#all{
+	width: 960px;
+}
+#resume{
+	padding: 20px;
+	width: 920px;
+	background-color: gray;
+	color: white;
+	font-size: 10px;
+}
+.div3{
+	height: 100px;
+}
+.title{
+	text-align: center;
+	line-height: 100px;
+	height: 98px;
+	width: 100px;
+	float:left;
+	background-color: lightgray;
+	font-size: 12px;
+	border: 1px solid white;
+	margin-right: 10px;
+}
+.information{
+	height: 78px;
+	padding: 10px;
+	padding-left: 10px;
+	border: 1px solid lightgray;
+}
+.inline-information{
+	height: 78px;
+	padding: 10px;
+	padding-left: 10px;
+	border: 1px solid lightgray;
+}
+.inline-information div{
+	margin-right: 40px;
+	float: left;
+}
+
